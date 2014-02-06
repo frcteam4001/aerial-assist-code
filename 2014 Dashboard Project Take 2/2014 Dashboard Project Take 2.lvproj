@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
+	<Property Name="varPersistentID:{7A7A1C4D-E5BE-470F-8906-4CBAAEF9CEC7}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Green or Sat Range</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="alias.value" Type="Str">192.168.0.90</Property>
 		<Property Name="CCSymbols" Type="Str"></Property>
@@ -29,6 +30,7 @@
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
+		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../../Kelvin &amp; William Dashboard Feb 3/Untitled Library 1.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
@@ -228,7 +230,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">40</Property>
+				<Property Name="Bld_version.build" Type="Int">55</Property>
 				<Property Name="Bld_version.major" Type="Int">5</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/FRC Dashboard Project/FRC PC Dashboard/Dashboard.exe</Property>
