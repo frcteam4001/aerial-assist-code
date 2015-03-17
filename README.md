@@ -1,4 +1,4 @@
-![Aerial Assist](http://team4001.ca/uploads/2014AerialAssist.png)
+![Aerial Assist](http://www.usfirst.org/sites/default/files/uploadedFiles/About_Us/Media_Center/FRC_Assets/AerialAssist_RGB-THUMB.png)
 2014 FRC Competition Code
 =========================
 
